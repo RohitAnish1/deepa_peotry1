@@ -20,34 +20,35 @@ export default function SinglePost() {
                 <span className="singlePostAuthor">Author:<b>Deepa</b> </span>
                 <span className="singlePostDate" >1 hours ago</span>
             </div>
-            <p className="singlePostDesc">
-            Challenges are rough handcuffs
-They bind you away from everything else
-This is not meant for those
-Who only catch fish without wetting hands!
-This will need rolling up your sleeve
-And tasting the sting of tears and sweat in eyes.
-Then you cannot spend smiles at waves and foams
-But learn to get in ease with the depth you have reached.
-With fluttering wings you may dare
-To dispel some darkness,a tenant for long!
-Learn to live life,the inflamed way
-Swooping up,leaving blazing trails.
-"Ends of the world and the Great outer sea"
-Were challenged and kept by Alexander the great!
-Wasn't it a challenge that awakened Sidhartha
-In an endless journey to find "Nirvana"
-Didn't the threat of agonizing lunacy
-Challenge the Guru to awaken God in stone?
-When silence has  many consequences 
-A challenge it is to find your voice
-Dare to discern voice from noise
-And go deaf and dumb at all nonsense heard!
-A challenge it was for the king of our state
-To give up all to keep his word
-Dare a comeback from the nether world
-Once every year to love his dears!
-            </p>
+            <div className="singlePostDesc">
+    <p>Challenges are rough handcuffs</p>
+    <p>They bind you away from everything else</p>
+    <p>This is not meant for those</p>
+    <p>Who only catch fish without wetting hands!</p>
+    <p>This will need rolling up your sleeve</p>
+    <p>And tasting the sting of tears and sweat in eyes.</p>
+    <p>Then you cannot spend smiles at waves and foams</p>
+    <p>But learn to get in ease with the depth you have reached.</p>
+    <p>With fluttering wings you may dare</p>
+    <p>To dispel some darkness, a tenant for long!</p>
+    <p>Learn to live life, the inflamed way</p>
+    <p>Swooping up, leaving blazing trails.</p>
+    <p>"Ends of the world and the Great outer sea"</p>
+    <p>Were challenged and kept by Alexander the Great!</p>
+    <p>Wasn't it a challenge that awakened Siddhartha</p>
+    <p>In an endless journey to find "Nirvana"?</p>
+    <p>Didn't the threat of agonizing lunacy</p>
+    <p>Challenge the Guru to awaken God in stone?</p>
+    <p>When silence has many consequences</p>
+    <p>A challenge it is to find your voice</p>
+    <p>Dare to discern voice from noise</p>
+    <p>And go deaf and dumb at all nonsense heard!</p>
+    <p>A challenge it was for the king of our state</p>
+    <p>To give up all to keep his word</p>
+    <p>Dare a comeback from the nether world</p>
+    <p>Once every year to love his dears!</p>
+</div>
+
         </div>
     </div>
   )

@@ -66,10 +66,11 @@
 
 @media (max-width: 600px) {
     .sidebar {
-       margin-left: 40px;
-        align-content: end;
+      height:50px;
+      margin-top: 50px;
+       margin-left: -200px;
         width: 100%;
-        flex:content;
+        flex:none;
         align-items: center;
         background-color: white;
         border-top: 1px solid black; /* Ensure the sidebar stays on top */
@@ -108,16 +109,16 @@
   
     .sidebarListItem {
       width: 100%;
-      display: none;
+     
     }
   
     .sidebarSocial {
       margin-top: 15px;
-      display: none;
+     
     }
   
     .sidebarIcon {
-        display: none;
+    
       font-size: 16px;
       margin: 0 10px;
     }

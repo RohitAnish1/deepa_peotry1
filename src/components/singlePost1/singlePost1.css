@@ -56,7 +56,24 @@
     font-size: 30px;
     font-weight: 600;
 }
- 
+@media screen and (max-width: 768px) {
+    .singlePostImg {
+      max-height: 200px; /* Adjusted max-height for smaller screens */
+    }
+  
+    .singlePostTitle {
+      font-size: 24px; /* Adjusted font size for smaller screens */
+    }
+  
+    .singlePostInfo,
+    .singlePostDesc {
+      font-size: 14px; /* Adjusted font size for smaller screens */
+    }
+  
+    .singlePostDesc::first-letter {
+      font-size: 24px; /* Adjusted first letter font size for smaller screens */
+    }
+  }
 
 
 

@@ -49,12 +49,13 @@
 }
 @media (max-width: 600px) {
   .posts {
+    margin-top: 700px;
     grid-template-columns: 1fr; /* Display one post per row for mobile */
     gap: 10px; /* Adjusted gap for mobile */
   }
 
   .post {
-    width: 100%; /* Full width for mobile */
+    width: 150%; /* Full width for mobile */
     max-width: none; /* Remove max-width for full width on mobile */
     padding: 20px; /* Reduced padding for mobile */
   }
